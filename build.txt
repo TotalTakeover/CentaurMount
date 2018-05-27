@@ -1,0 +1,5 @@
+author = Total Takeover
+version = 0.1.4
+displayName = Centaur Mount
+hideCode = false
+hideResources = true
