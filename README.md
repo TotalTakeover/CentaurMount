@@ -1,8 +1,6 @@
 # Terraria-Centaur-Mount-Mod
 
-"Centaur Mount" is a mod that adds mounts to Terraria that make you a centaur. 
-There are currently 3 Mounts to choose from (Brown, Grey, & Unicorn)
-These Mounts can be made from 1 Blessed Apple at a cooking pot.
+"Centaur Mount" is a mod that adds mounts to Terraria that make you a centaur. There are currently 3 Mounts to choose from (Brown, Grey, & Unicorn) These Mounts can be made from 1 Blessed Apple at a cooking pot.
 
 
 At this time, I do notice a few bugs and I am working to fix them ASAP.
@@ -34,21 +32,21 @@ Accessories/Vanity/armor that allows for lower body defense and stats.
 
 Change Log:
 
---Update 0.1.4--
-GitHub Support ^-^
-Icon (Hopefull) Finally added
+===Update 0.1.4===
+GitHub Support ^-^ (this still means i don't know what im doing.)
+Icon (Hopefully) Finally added
 
---Update 0.1.3--
+===Update 0.1.3===
 Given up on Icon (for now)
 Added Grey Centaur Mount
-Reverted to old Sprites as Fix for visable legs just made things worse
+Reverted to old Sprites as Fix for visible legs just made things worse
 Put the Horn in Unicorn (wait what)
-Discription is a mess, how do I space things out.
+Description is a mess. 
 
---Update 0.1.2--
+===Update 0.1.2===
 Hoping Icon Properly Works
 Added Centaur Unicorn Mount
-Attempted to fix Visable legs
+Attempted to fix Visible legs
 
---Update 0.1.1--
+===Update 0.1.1===
 Failed attempt at adding an Icon
