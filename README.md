@@ -32,7 +32,7 @@ Accessories/Vanity/armor that allows for lower body defense and stats.
 
 Change Log:
 
-===Update v0.1.5 & v0.1.5.1===
+===Update v0.1.5 - v0.1.5.2==
 Im an idiot and unpublished the mod by accident. Apologies.
 
 ===Update v0.1.4.1===
