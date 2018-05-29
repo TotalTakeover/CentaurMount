@@ -32,6 +32,9 @@ Accessories/Vanity/armor that allows for lower body defense and stats.
 
 Change Log:
 
+===Update 0.1.4.1===
+Test update + Updated description
+
 ===Update 0.1.4===
 GitHub Support ^-^ (this still means i don't know what im doing.)
 Icon (Hopefully) Finally added
