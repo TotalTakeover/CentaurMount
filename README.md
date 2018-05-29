@@ -32,24 +32,27 @@ Accessories/Vanity/armor that allows for lower body defense and stats.
 
 Change Log:
 
-===Update 0.1.4.1===
-Test update + Updated description
+===Update v0.1.5 & v0.1.5.1===
+Im an idiot and unpublished the mod by accident. Apologies.
 
-===Update 0.1.4===
+===Update v0.1.4.1===
+Test update + Updated description (still cant get the mod to work properly on github)
+
+===Update v0.1.4===
 GitHub Support ^-^ (this still means i don't know what im doing.)
 Icon (Hopefully) Finally added
 
-===Update 0.1.3===
+===Update v0.1.3===
 Given up on Icon (for now)
 Added Grey Centaur Mount
 Reverted to old Sprites as Fix for visible legs just made things worse
 Put the Horn in Unicorn (wait what)
 Description is a mess. 
 
-===Update 0.1.2===
+===Update v0.1.2===
 Hoping Icon Properly Works
 Added Centaur Unicorn Mount
 Attempted to fix Visible legs
 
-===Update 0.1.1===
+===Update v0.1.1===
 Failed attempt at adding an Icon
