@@ -6,7 +6,7 @@
 At this time, I do notice a few bugs and I am working to fix them ASAP.
 
 
-If there are issues with this mod that I did not find, please make a pull request on the Repository page. (https://github.com/TotalTakeover/Terraria-Centaur-Mount-Mod)
+If there are issues with this mod that I did not find, please make a pull request on the Repository page. (https://github.com/TotalTakeover/Centaur-Mount)
 
 
 Current bugs:
