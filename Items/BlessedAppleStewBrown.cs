@@ -28,6 +28,7 @@ namespace CentaurMount.Items
 		{
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BlessedApple, 1);
+			recipe.AddIngredient(ItemID.BrownDye, 1);
 			recipe.AddTile(TileID.CookingPots);
 			recipe.SetResult(this);
 			recipe.AddRecipe();

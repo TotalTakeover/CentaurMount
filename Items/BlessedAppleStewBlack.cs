@@ -3,11 +3,11 @@ using Terraria.ModLoader;
 
 namespace CentaurMount.Items
 {
-	public class BlessedAppleStewUnicorn : ModItem
+	public class BlessedAppleStewBlack : ModItem
 	{
 		public override void SetStaticDefaults()
 		{
-			DisplayName.SetDefault("Blessed Apple Stew (Unicorn)");
+			DisplayName.SetDefault("Blessed Apple Stew (Black)");
 			Tooltip.SetDefault("This Apple Stew is glowing with energy. I wonder what happens when you eat it.");
 		}
 		public override void SetDefaults()
@@ -21,14 +21,14 @@ namespace CentaurMount.Items
 			item.rare = 8;
 			item.UseSound = SoundID.Item25;
 			item.noMelee = true;
-			item.mountType = mod.MountType("CentaurMountUnicorn");
+			item.mountType = mod.MountType("CentaurMountBlack");
 		}
 
 		public override void AddRecipes()
 		{
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.BlessedApple, 1);
-			recipe.AddIngredient(ItemID.UnicornHorn, 1);
+			recipe.AddIngredient(ItemID.BlackDye, 1);
 			recipe.AddTile(TileID.CookingPots);
 			recipe.SetResult(this);
 			recipe.AddRecipe();

@@ -10,12 +10,11 @@ using Terraria.ModLoader;
 
 namespace CentaurMount.Mounts
 {
-	public class CentaurMountUnicorn : ModMountData
+	public class CentaurMountBlack : ModMountData
 	{
 		public override void SetDefaults()
 		{
-			mountData.spawnDust = 15;
-			mountData.buff = mod.BuffType("CentaurMountBuffUnicorn");
+			mountData.buff = mod.BuffType("CentaurMountBuffBlack");
 			mountData.heightBoost = 34;
 			mountData.flightTimeMax = 0;
 			mountData.fallDamage = 0.2f;

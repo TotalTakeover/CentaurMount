@@ -20,13 +20,13 @@ namespace CentaurMount.Mounts
 			mountData.jumpSpeed = 8.01f;
 			mountData.totalFrames = 16;
 			int[] array = new int[mountData.totalFrames];
-			for (int l = 0; l < array.Length; l++)
-				array[l] = 31;
-			array[15] += 4;
+			for (int index = 0; index < array.Length; ++index)
+				array[index] = 28;
+			array[15] += 2;
 			mountData.playerYOffsets = array;
 			mountData.xOffset = -17;
 			mountData.bodyFrame = 0;
-			mountData.yOffset = 0;
+			mountData.yOffset = 3;
 			mountData.playerHeadOffset = 31;
 			mountData.standingFrameCount = 1;
 			mountData.standingFrameDelay = 12;
@@ -34,6 +34,9 @@ namespace CentaurMount.Mounts
 			mountData.runningFrameCount = 7;
 			mountData.runningFrameDelay = 15;
 			mountData.runningFrameStart = 1;
+			mountData.dashingFrameCount = 6;
+			mountData.dashingFrameDelay = 40;
+			mountData.dashingFrameStart = 9;
 			mountData.flyingFrameCount = 6;
 			mountData.flyingFrameDelay = 6;
 			mountData.flyingFrameStart = 1;
