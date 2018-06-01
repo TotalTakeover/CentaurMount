@@ -9,6 +9,7 @@ namespace CentaurMount.Mounts
 	{
 		public override void SetDefaults()
 		{
+			mountData.spawnDust = 53;
 			mountData.buff = mod.BuffType("CentaurMountBuffGrey");
 			mountData.heightBoost = 34;
 			mountData.flightTimeMax = 0;
@@ -25,7 +26,7 @@ namespace CentaurMount.Mounts
 			array[15] += 2;
 			mountData.playerYOffsets = array;
 			mountData.xOffset = -17;
-			mountData.bodyFrame = 0;
+			mountData.bodyFrame = 6;
 			mountData.yOffset = 3;
 			mountData.playerHeadOffset = 31;
 			mountData.standingFrameCount = 1;

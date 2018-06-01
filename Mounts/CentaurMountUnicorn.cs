@@ -31,7 +31,7 @@ namespace CentaurMount.Mounts
 			array[15] += 2;
 			mountData.playerYOffsets = array;
 			mountData.xOffset = -17;
-			mountData.bodyFrame = 0;
+			mountData.bodyFrame = 6;
 			mountData.yOffset = 3;
 			mountData.playerHeadOffset = 31;
 			mountData.standingFrameCount = 1;
