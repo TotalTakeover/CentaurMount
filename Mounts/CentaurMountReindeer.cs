@@ -27,7 +27,7 @@ namespace CentaurMount.Mounts
 			mountData.totalFrames = 12;
 			int[] array = new int[mountData.totalFrames];
 			for (int index = 0; index < array.Length; ++index)
-				array[index] = 30;
+				array[index] = 28;
 			array[1] += 2;
 			array[6] += 2;
 			array[7] += 2;
